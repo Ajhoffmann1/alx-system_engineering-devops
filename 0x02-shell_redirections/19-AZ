@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i '^[a-z]' /etc/ssh/sshd_config
+chomd u+x 19-AZ(r "A" "Z" | tr "c" "e"
